@@ -1,11 +1,11 @@
-h1{
+h1 {
   font-style: italic;
-  color : blue;
+  color: blue;
   font-size: 21px;
 }
 
-p{
-  font-weight : bold;
-  color : red;
+p {
+  font-weight: bold;
+  color: red;
   font-size: 14px;
 }
